@@ -1,2 +1,2 @@
-# AdityaSK-C-programs
+# AdityaSK-C++-programs
 This repository contains c++ programs
