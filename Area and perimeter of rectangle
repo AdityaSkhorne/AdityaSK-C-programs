@@ -7,7 +7,7 @@ int main() {
   int width = 13;
   cout << length * width << endl;
   cout << 2 * (length + width) << endl;
-  width = 15; //Replace the _ with the correct value.
+  width = 15; 
   cout << length * width << endl;
   cout << 2 * (length + width);
   
