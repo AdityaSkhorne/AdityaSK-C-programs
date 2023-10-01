@@ -1,0 +1,12 @@
+#include <iostream>
+#include <climits>
+using namespace std;
+int main()
+{
+    long long int a;
+    cout << "enter value for a:- ";
+    cin >> a;
+    std::cout << "Size of a: " << sizeof(a) << " bytes\n";
+    std::cout << "Maximum value of int: " << INT_MAX << "\n";
+    return 0;
+}
